@@ -1,0 +1,30 @@
+nav
+{
+    background-color: black;
+    color: white;
+    padding:5px;
+    
+}
+.col
+{
+    background-color: gray;
+    height: 200px;
+    padding: 10px;
+
+    border: solid whitesmoke;
+}
+.column1
+{
+    background-color:blue;
+    padding: 50px;
+    
+   border: solid whitesmoke;
+}
+
+
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
